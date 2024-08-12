@@ -49,11 +49,11 @@ const AuthForm = ({type}: {type:string}) => {
                 setUser(newUser);
             }
             if (type === 'sign-in') {
-                //const respone = await SignIn({
-                    //email: data.email,
-                    //password: data.password
-                //})
-                //if (respone) router.push('/')
+                const response = await signIn({
+                    email: data.email,
+                    password: data.password
+                })
+                if (response) router.push('/')
             }
 
         } catch (error) {
