@@ -12,7 +12,7 @@ You can visit the site [here](https://banking-project-indol.vercel.app/) and con
 * [Transfer Funds](https://github.com/gregalexan/banking_project/blob/master/Transfer.png)
 
 
-## Tech Stack
+## ⚙️ Tech Stack
 * Next.js
 * TypeScript
 * Appwrite
@@ -24,7 +24,7 @@ You can visit the site [here](https://banking-project-indol.vercel.app/) and con
 * Chart.js
 * ShadCN
 
-## Features
+## 🔋 Features
 ✔️ **Authentication: Secure SSR authentication with proper validations and authorization**  
 ✔️ **Connect Banks: Integrates with Plaid for multiple bank account linking**  
 ✔️ **Home Page: Shows general overview of user account**  
